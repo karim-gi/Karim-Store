@@ -33,7 +33,7 @@ To install an app from the app store
 sudo ~/umbrel/scripts/app install sparkles-hello-world
 ```
 sudo ~/umbrel/scripts/app install metube
-
+```
 To remove an app store:
 ```
 sudo ~/umbrel/scripts/repo remove https://github.com/karim-gi/umbrel-karim-store.git
