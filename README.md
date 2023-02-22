@@ -31,6 +31,10 @@ sudo ~/umbrel/scripts/repo update
 To install an app from the app store
 ```
 sudo ~/umbrel/scripts/app install sparkles-hello-world
+
+sudo ~/umbrel/scripts/app install sparkles-hello-world
+
+sudo ~/umbrel/scripts/app install sparkles-hello-world
 ```
 
 To remove an app store:
