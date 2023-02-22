@@ -32,7 +32,7 @@ To install an app from the app store
 ```
 sudo ~/umbrel/scripts/app install sparkles-hello-world
 
-sudo ~/umbrel/scripts/app install sparkles-hello-world
+sudo ~/umbrel/scripts/app install karim-store-metube
 
 sudo ~/umbrel/scripts/app install sparkles-hello-world
 ```
