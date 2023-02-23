@@ -34,7 +34,9 @@ sudo ~/umbrel/scripts/app install sparkles-hello-world
 
 sudo ~/umbrel/scripts/app install karim-store-metube
 
-sudo ~/umbrel/scripts/app install file-browser
+sudo ~/umbrel/scripts/app install karim-store-file-browser
+
+sudo ~/umbrel/scripts/app install karim-store-youtubedl-material
 ```
 
 To remove an app store:
